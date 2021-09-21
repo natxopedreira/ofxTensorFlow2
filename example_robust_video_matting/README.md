@@ -9,6 +9,10 @@ Background image
 https://www.pexels.com/es-es/foto/capsulas-blancas-sobre-fondo-amarillo-3683056/
 
 
+Model can be downloaded from original repo
+https://github.com/PeterL1n/RobustVideoMatting/releases/download/v1.0.0/rvm_mobilenetv3_tf.zip
+
+
 ![](./media/ezgif-2-2b7b3147e76e.gif)
 
 
